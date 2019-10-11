@@ -1,0 +1,9 @@
+{
+    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+    "dependencies": {},
+    "description": "Common utilities for Unity and C#. It mostly consist of useful extension methods.",
+    "displayName": "Eflatun.Common",
+    "license": "MIT",
+    "name": "com.eflatun.common",
+    "version": "0.0.1"
+}
