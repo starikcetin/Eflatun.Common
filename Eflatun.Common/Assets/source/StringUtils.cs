@@ -1,4 +1,5 @@
 ﻿using System;
+using Eflatun.CodePatterns;
 using UnityEngine;
 
 namespace Eflatun.Common
