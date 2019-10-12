@@ -1,3 +1,14 @@
-﻿{
-	"name": "Eflatun.Common"
+{
+    "name": "Eflatun.Common",
+    "references": [
+        "GUID:79d5424ecabb1704ab80e14d90b516e8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
 }
