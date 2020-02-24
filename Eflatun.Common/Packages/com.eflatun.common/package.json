@@ -1,12 +1,12 @@
 {
-  "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
-  "dependencies": {
-    "com.eflatun.codepatterns": "0.0.1"
-  },
-  "description": "Common utilities for Unity and C#. It mostly consists of useful extension methods.",
-  "displayName": "Eflatun.Common",
-  "license": "MIT",
-  "name": "com.eflatun.common",
-  "version": "0.0.3",
-  "type": "library"
+	"author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+	"dependencies": {
+		"com.eflatun.codepatterns": "0.0.1"
+	},
+	"description": "Common utilities for Unity and C#. It mostly consists of useful extension methods.",
+	"displayName": "Eflatun.Common",
+	"license": "MIT",
+	"name": "com.eflatun.common",
+	"version": "0.0.4",
+	"type": "library"
 }
