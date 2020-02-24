@@ -1,7 +1,7 @@
 {
   "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
   "dependencies": {
-    "com.eflatun.codepatterns": "https://github.com/starikcetin/Eflatun.CodePatterns.git#0.0.1"
+    "com.eflatun.codepatterns": "0.0.1"
   },
   "description": "Common utilities for Unity and C#. It mostly consists of useful extension methods.",
   "displayName": "Eflatun.Common",
